@@ -1,0 +1,29 @@
+body {
+    background-image: url("../images/hp-background.png");
+    font-family: 'EB Garamond', serif;
+}
+
+.container {
+    vertical-align: middle;
+}
+
+.jumbotron {
+    background-color:black;
+    color:white;
+    text-align:center;
+    vertical-align: middle;
+}
+.btn-primary {
+    background-color:#0F1840; 
+    color:white;
+    border-color:#202D5E;
+}
+
+.btn-primary:hover{
+    background-color:#202D5E;
+}
+
+.answer {
+    background:white;
+    color:black;
+}
